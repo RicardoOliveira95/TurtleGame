@@ -1,0 +1,145 @@
+sprvert.png
+size: 53, 856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile000
+  rotate: true
+  xy: 1, 1
+  size: 50, 51
+  orig: 85, 53
+  offset: 15, 0
+  index: -1
+tile001
+  rotate: false
+  xy: 1, 727
+  size: 48, 22
+  orig: 85, 53
+  offset: 16, 16
+  index: -1
+tile002
+  rotate: false
+  xy: 1, 502
+  size: 49, 40
+  orig: 85, 53
+  offset: 11, 4
+  index: -1
+tile003
+  rotate: false
+  xy: 1, 286
+  size: 50, 44
+  orig: 85, 53
+  offset: 15, 4
+  index: -1
+tile004
+  rotate: false
+  xy: 1, 544
+  size: 49, 35
+  orig: 85, 53
+  offset: 11, 9
+  index: -1
+tile005
+  rotate: false
+  xy: 1, 701
+  size: 48, 24
+  orig: 85, 53
+  offset: 6, 10
+  index: -1
+tile006
+  rotate: false
+  xy: 1, 189
+  size: 50, 48
+  orig: 85, 53
+  offset: 15, 0
+  index: -1
+tile007
+  rotate: false
+  xy: 1, 581
+  size: 49, 33
+  orig: 85, 53
+  offset: 11, 9
+  index: -1
+tile008
+  rotate: false
+  xy: 1, 454
+  size: 49, 46
+  orig: 85, 53
+  offset: 6, 2
+  index: -1
+tile009
+  rotate: false
+  xy: 1, 640
+  size: 49, 18
+  orig: 85, 53
+  offset: 1, 15
+  index: -1
+tile010
+  rotate: false
+  xy: 1, 660
+  size: 48, 39
+  orig: 85, 53
+  offset: 16, 14
+  index: -1
+tile011
+  rotate: true
+  xy: 1, 53
+  size: 48, 51
+  orig: 85, 53
+  offset: 11, 0
+  index: -1
+tile012
+  rotate: false
+  xy: 1, 616
+  size: 49, 22
+  orig: 85, 53
+  offset: 6, 13
+  index: -1
+tile013
+  rotate: true
+  xy: 1, 103
+  size: 84, 50
+  orig: 85, 53
+  offset: 1, 0
+  index: -1
+tile014
+  rotate: false
+  xy: 1, 751
+  size: 45, 18
+  orig: 83, 53
+  offset: 0, 14
+  index: -1
+tile015
+  rotate: false
+  xy: 1, 332
+  size: 50, 18
+  orig: 85, 53
+  offset: 15, 14
+  index: -1
+tile016
+  rotate: false
+  xy: 1, 352
+  size: 49, 49
+  orig: 85, 53
+  offset: 11, 4
+  index: -1
+tile017
+  rotate: false
+  xy: 1, 403
+  size: 49, 49
+  orig: 85, 53
+  offset: 5, 0
+  index: -1
+tile018
+  rotate: true
+  xy: 1, 771
+  size: 84, 40
+  orig: 85, 53
+  offset: 1, 13
+  index: -1
+tile019
+  rotate: true
+  xy: 1, 239
+  size: 45, 50
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
